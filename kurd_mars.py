@@ -262,6 +262,4 @@ def main(stdscr):
                     break
 
 if __name__ == "__main__":
-    curses.wrapper(main)
-EOF
-python kurd_mars.py
+    curses.wrapp
